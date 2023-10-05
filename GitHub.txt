@@ -1,0 +1,11 @@
+ git init
+
+git remote add origin https://github.com/JBwayo/Flutter-Components.git
+git branch -M main
+
+git add -A 
+
+git commit -m "started on flutter project"
+
+git push --set-upstream origin main
+
